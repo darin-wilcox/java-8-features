@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/**
+**/.settings/**
+
+# Intellij
+*.idea/
+*.iml
+*.iws
+*.log
+
+# Maven
+log/
+target/
+/target/
+
+/deployment/
+/bin/
+/.bpmn/
+
+
+**/.DS_Store
